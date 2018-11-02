@@ -212,7 +212,7 @@ div.backheadpassreq, .backheadaccmake {
     left: 10px;
     right: 10px;
     top: 3%;
-    min-width: 200px; 
+    min-width: 200px;
 }
 div.dorp {
     color: white;
@@ -363,7 +363,7 @@ div.appointmentbox1 {
 div.weekback {
     position: absolute;
     z-index: 3;
-    top: 538px;
+    top: 520px;
     left: 45px;
     font-size: 32px;
     color: darkorange;
@@ -374,7 +374,7 @@ div.weekback {
 div.weeknext {
     position: absolute;
     z-index: 3;
-    top: 538px;
+    top: 520px;
     right: 50px;
     font-size: 32px;
     color: darkorange;
@@ -389,7 +389,7 @@ div.weekback2 {
     height: 50px;
     position: absolute;
     z-index: 2;
-    top: 530px;
+    top: 512px;
     left: 40px;
     border: groove 2px black;
     border-radius: 20%;
@@ -401,7 +401,7 @@ div.weeknext2 {
     height: 50px;
     position: absolute;
     z-index: 2;
-    top: 530px;
+    top: 512px;
     right: 40px;
     border: groove 2px black;
     border-radius: 20%;
@@ -430,7 +430,7 @@ button.finddriver {
     padding-bottom: 10px;
     margin-left: 5vw;
     margin-right: 5vw;
-    margin-top: 10vh;
+    margin-top: 7vh;
     min-width: 300px;
 
 }
